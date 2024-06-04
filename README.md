@@ -8,6 +8,8 @@ Commercial banks receive a lot of applications for credit cards. Many of them ge
 * Encoding categorical features
 * Checking VIF
 * Standarization & PCA
+* Shapiro-Wilk test
+* Spearman correlation
 * Model creating (logistic regression) & Parameters tunning
 
 

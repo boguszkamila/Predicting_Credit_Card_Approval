@@ -4,11 +4,10 @@ Commercial banks receive a lot of applications for credit cards. Many of them ge
 ## Steps:
 * Data review
 * Cleaning data such as copying with missing values, outliers (deletion)
-* Checking assumptions (chi-suare test,bonferroni)
-* Creating new data
+* Checking data (chi-suare test & bonferroni)
 * Encoding categorical features
 * Checking VIF
-* Parameters tunning
-* Creating models (normalization, logistic regression)
+* Standarization & PCA
+* Model creating (logistic regression) & Parameters tunning
 
 
